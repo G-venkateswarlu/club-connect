@@ -1,6 +1,6 @@
-# 🎓 College Connect
+# 🎓 Club Connect
 
-**College Connect** is a MERN stack platform designed to bridge the gap between students and clubs in a college. It provides a space for students to explore extracurricular opportunities, access academic guidance, and share their own experiences.
+**Club Connect** is a MERN stack platform designed to bridge the gap between students and clubs in a college. It provides a space for students to explore extracurricular opportunities, access academic guidance, and share their own experiences.
 
 ## 🚀 Features
 
