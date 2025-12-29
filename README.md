@@ -59,5 +59,5 @@
 - Chat rooms for students to talk to each other
 
 ## 🌐 Live Demo
-https://your-website-link.vercel.app
+https://sastra-club-connect-frontend.vercel.app/
 
