@@ -58,6 +58,6 @@
 - Email notifications for blog replies or event reminders
 - Chat rooms for students to talk to each other
 
-## 🌐 Live Demo
+### 🌐 Live Demo
 https://sastra-club-connect-frontend.vercel.app/
 
