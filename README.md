@@ -57,4 +57,4 @@
 ### Future Enhancements
 - Email notifications for blog replies or event reminders
 - Chat rooms for students to talk to each other
--
+
